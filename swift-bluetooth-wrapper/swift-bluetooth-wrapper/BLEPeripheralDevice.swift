@@ -3,7 +3,7 @@
 //  swift-bluetooth-wrapper
 //
 //  Created by Raghu on 07/06/17.
-//  Copyright © 2017 TimexUSA. All rights reserved.
+//  Copyright © 2017 Innominds Software Pvt Ltd. All rights reserved.
 //
 
 import UIKit

@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  swift-bluetooth-wrapper
 //
-//  Created by Raghu on 05/06/17.
-//  Copyright © 2017 TimexUSA. All rights reserved.
+//  Created by Innominds on 05/06/17.
+//  Copyright © 2017 Innominds Software Pvt Ltd. All rights reserved.
 //
 
 import UIKit
